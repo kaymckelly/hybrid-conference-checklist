@@ -31,4 +31,4 @@ Something pressing? Use this list. Everything else should be covered below.
 - [ ] have a final program by around noon (dev's time zone) day of
 
 #### If there are workshops or other affiliated events
-- [ ] typically the IACR does not run sessions or websites for affiliated events; these details are left up to the organizers of the events. If you do decide to run the Zoom rooms, you'll need separate accounts for the events.
+Typically the IACR does not run sessions or websites for affiliated events; these details are left up to the organizers of the events. If you do decide to run the Zoom rooms, you'll need separate accounts for the events.
