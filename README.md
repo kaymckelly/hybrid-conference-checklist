@@ -21,6 +21,12 @@ Something pressing? Use this list. Everything else should be covered below.
 #### **Two days prior**
 - [ ] text
 
+#### **The day before**
+- [ ] text
+
+#### **Day of**
+- [ ] text
+
 -----
 
 ### Special cases
