@@ -48,7 +48,7 @@ This is of course a rough checklist only and may not apply to every conference. 
 
 ### Contingencies
 
-#### Workshop or other affiliated events
+#### Workshops or other affiliated events
 Typically the IACR does not run sessions or websites for affiliated events; these details are left up to the organizers of the events. If you do decide to run the Zoom rooms, you'll need accounts + meetings for each individual event.
 
 #### If there's a rump session
